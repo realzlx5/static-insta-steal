@@ -11,7 +11,7 @@ local whitelist = {
     "NGRTAIM", 
     "Can19985",
     "themortnaskid2", 
-    "PowerOFLukad", 
+    "Higame124s", 
     "PowerOFLukad", 
     "PowerOFLukad", 
     "PowerOFLukad", 
