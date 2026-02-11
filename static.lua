@@ -10,7 +10,7 @@ local whitelist = {
     "khohoi6", 
     "NGRTAIM", 
     "Can19985",
-    "PowerOFLukad", 
+    "themortnaskid2", 
     "PowerOFLukad", 
     "PowerOFLukad", 
     "PowerOFLukad", 
