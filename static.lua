@@ -8,7 +8,7 @@
 local whitelist = {
     "aggich5", 
     "khohoi6", 
-    "PowerOFLukad", 
+    "NGRTAIM", 
     "PowerOFLukad",
     "PowerOFLukad", 
     "PowerOFLukad", 
