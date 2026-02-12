@@ -14,7 +14,7 @@ local whitelist = {
     "Higame124s", 
     "gagtrading980", 
     "PI_15301", 
-    "PowerOFLukad", 
+    "50rulezzz", 
     "PowerOFLukad", 
     "PowerOFLukad", 
     "PowerOFLukad", 
