@@ -16,7 +16,7 @@ local whitelist = {
     "PI_15301", 
     "50rulezzz", 
     "blainedes883", 
-    "PowerOFLukad", 
+    "Ayaan65489", 
     "PowerOFLukad", 
     "PowerOFLukad", 
     "PowerOFLukad", 
