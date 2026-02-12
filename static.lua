@@ -13,7 +13,7 @@ local whitelist = {
     "themortnaskid2", 
     "Higame124s", 
     "gagtrading980", 
-    "PowerOFLukad", 
+    "gg_newba_36414", 
     "PowerOFLukad", 
     "PowerOFLukad", 
     "PowerOFLukad", 
